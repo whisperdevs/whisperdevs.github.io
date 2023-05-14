@@ -1,1 +1,1 @@
-<h1>Website Coming Soon!</h1>
+<h1>This is an OUTDATED personal website.</h1>
